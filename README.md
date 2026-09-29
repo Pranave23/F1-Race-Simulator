@@ -27,4 +27,8 @@ The API will be available at `http://localhost:8000`, and the UI at `http://loca
 - `docs/` – Architecture decision records and project documentation.
 
 
+<<<<<<< HEAD
 Default tyre compound: Soft
+=======
+Default tyre compound: Hard
+>>>>>>> contributor-b
